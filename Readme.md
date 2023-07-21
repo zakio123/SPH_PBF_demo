@@ -34,8 +34,6 @@ python3 main.py (流体の粒子数) (イテレーション数)
 python3 visualize.py (流体の粒子数) (イテレーション数)
 ```
 ### 参考資料
-- ２次元のSPH実装を紹介しているサイトがあり、３次元への拡張や係数の設定に関して参考にした。
-https://cattech-lab.com/science-tools/category/lecture/lecture5/
-- PBF実装に関して
 
+- PBF実装に関して
 Macklin, Miles, and Matthias Müller. "Position based fluids." ACM Transactions on Graphics (TOG) 32.4 (2013): 1-12.# project
